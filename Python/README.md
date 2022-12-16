@@ -1,5 +1,5 @@
 # Python
-- Used Device : Mac
+- Used OS : macOS
 - Used IDE : Atom
 - Used Language : Python
 - https://opentutorials.org/course/1750
